@@ -1,4 +1,3 @@
 # Job-Portal
 group Members : 
-  Hatim Manzoor
-  Fayiq Farooq
+  Hatim Manzoor And Fayiq Farooq
